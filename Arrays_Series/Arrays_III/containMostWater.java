@@ -1,4 +1,4 @@
-package DSA_375Q.Arrays_Series.Arrays_III;
+package Arrays_Series.Arrays_III;
 
 public class containMostWater {
     public static int trappedRainwater(int height[]) {
