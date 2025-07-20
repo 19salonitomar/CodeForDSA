@@ -17,6 +17,8 @@ public class stringPractice {
             }
         }
         System.out.println("Total Lower Case Vowel:" + Count);
+
+        sc.close();
 }
 
 }
